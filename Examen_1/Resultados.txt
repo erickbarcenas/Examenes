@@ -1,3 +1,13 @@
+-----PRUEBA 0----
+Datos ingresados:
+Numero1: dkfd
+Nunmero2: /
+
+Resultados:
+Ingresaste un caracter \n presiona [Enter] para salir y después vuelve a iniciar el programa
+
+
+-----PRUEBA 1----
 Datos ingresados:
 Numero1: 10
 Nunmero2: 5
@@ -6,3 +16,53 @@ Resultados:
 
 Suma: 15
 División: 2
+
+-----PRUEBA 2----
+Datos ingresados:
+Numero1: 0
+Nunmero2: 8
+
+Resultados:
+
+Suma: 8
+División: 0
+
+-----PRUEBA 3----
+Datos ingresados:
+Numero1: 5.5
+Nunmero2: 4.2
+
+Resultados:
+
+Suma: 9.72
+División: 1.3095
+
+-----PRUEBA 4----
+Datos ingresados:
+Numero1: 0
+Nunmero2: 0
+
+Resultados:
+
+Suma: 0
+División: 'no está definida'
+
+-----PRUEBA 5----
+Datos ingresados:
+Numero1: 12313212313213212313212313212313
+Nunmero2: 1231231321321231321321312313212312313213213212312312312312313131313213213131313131321321321321313213132132132131313
+
+Resultados:
+
+Suma: 1.23123132132123E+114
+División: 0 /*debido al redondeo*/
+
+-----PRUEBA 4----
+Datos ingresados:
+Numero1: 4
+Nunmero2: 6
+
+Resultados:
+
+Suma: 10
+División: 0.6667
