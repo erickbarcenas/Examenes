@@ -1,0 +1,8 @@
+Datos ingresados:
+Numero1: 10
+Nunmero2: 5
+
+Resultados:
+
+Suma: 15
+División: 2
