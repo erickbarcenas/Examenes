@@ -1,0 +1,10 @@
+c:\users\alumnos\source\repos\CalculadoraAreas\CalculadoraAreas\bin\Debug\CalculadoraAreas.exe.config
+c:\users\alumnos\source\repos\CalculadoraAreas\CalculadoraAreas\bin\Debug\CalculadoraAreas.exe
+c:\users\alumnos\source\repos\CalculadoraAreas\CalculadoraAreas\bin\Debug\CalculadoraAreas.pdb
+c:\users\alumnos\source\repos\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.csprojAssemblyReference.cache
+c:\users\alumnos\source\repos\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.InterfazUsuarioForm.resources
+c:\users\alumnos\source\repos\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.Properties.Resources.resources
+c:\users\alumnos\source\repos\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.csproj.GenerateResource.cache
+c:\users\alumnos\source\repos\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.csproj.CoreCompileInputs.cache
+c:\users\alumnos\source\repos\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.exe
+c:\users\alumnos\source\repos\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.pdb
