@@ -8,9 +8,13 @@ namespace CalculadoraAreas
 {
     class HijoCirculo:PadreFigura
     {
+        public HijoCirculo()
+        {
+            mensajeArea = "El área del círculo en m^2 es";
+        }
         public override Double Area()
         {
-            return Base_1 * 3.1416;
+            return (Math.Pow(GetRadio_1(),2))*(3.1416);
         }
 
     }

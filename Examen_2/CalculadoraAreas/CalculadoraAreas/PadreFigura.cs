@@ -8,59 +8,56 @@ namespace CalculadoraAreas
 {
     abstract class PadreFigura
     {
-        public Double ACuadrado;
-        public Double ACirculo;
-        public Double ATriangulo;
+        protected Double base_1;
+        protected Double altura_1;
+        protected Double radio_1;
+        protected string nombre_1;
+        protected string mensajeArea;
 
-        protected const float PI = 3.1416f;
+        public PadreFigura()
+        {
+            mensajeArea = "El area en m^2 es";
 
-        protected Double base_1 = 0;
-        protected Double altura_1 = 0;
-        protected Double radio_1 = 0;
+    }
+
+
+
+        public string Nombre_1 { get => nombre_1; set => nombre_1 = value; }
+        public string MensajeArea { get => mensajeArea; set => mensajeArea = value; }
 
         //public bool isInitialized;
-
-        public double Base_1 { get => base_1; set => base_1 = value; }
-        public double Altura_1 { get => altura_1; set => altura_1 = value; }
-        public double Radio_1 { get => radio_1; set => radio_1 = value; }
-
-        /*    PadreFigura()
-            {
-                isInitialized = true;
-            }*/
-
-
-        //protected float PI = 3.1416f;
-
-
-        /*
-         //Cuadrado
-        PadreFigura(Double Base)
+        public void SetBase_1(Double base_1)
         {
-            this.Base = Base;
+            this.base_1 = base_1;
         }
 
-         //Circulo
-         PadreFigura(Double Radio, float PI)
-         {
-             this.Radio = Radio;
-         }
+        public Double GetRadio()
+        {
+            return base_1;
+        }
 
-         //Triangulo
-         PadreFigura(Double Base, Double Altura)
-         {
-             this.Base = Base;
-             this.Altura = Altura;
-         }
+        public void SetAltura_1(Double altura_1)
+        {
+            this.altura_1 = altura_1;
+        }
 
-     */
+        public Double GetAltura_1()
+        {
+            return altura_1;
+        }
+
+        public void SetRadio_1(Double radio_1)
+        {
+            this.radio_1 = radio_1;
+        }
+
+        public Double GetRadio_1()
+        {
+            return radio_1;
+        }
 
         public abstract Double Area();
 
-
-        //protected abstract Double AreaCirculo();
-
-        //protected abstract Double AreaTriangulo();
 
 
     }

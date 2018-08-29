@@ -61,6 +61,7 @@
             this.txtBase.Name = "txtBase";
             this.txtBase.Size = new System.Drawing.Size(101, 20);
             this.txtBase.TabIndex = 1;
+            this.txtBase.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.RecuperarNumero);
             // 
             // btnEnviar
             // 
@@ -125,24 +126,25 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(167, 27);
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(59, 25);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(107, 13);
+            this.label2.Size = new System.Drawing.Size(306, 29);
             this.label2.TabIndex = 9;
-            this.label2.Text = "Calculadora de áreas";
+            this.label2.Text = "Calculadora de áreas [m^2]";
             // 
             // richTextBox1
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(188, 396);
+            this.richTextBox1.Location = new System.Drawing.Point(170, 425);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(135, 72);
+            this.richTextBox1.Size = new System.Drawing.Size(135, 39);
             this.richTextBox1.TabIndex = 10;
             this.richTextBox1.Text = "";
             // 
             // labelRespuesta
             // 
             this.labelRespuesta.AutoSize = true;
-            this.labelRespuesta.Location = new System.Drawing.Point(81, 429);
+            this.labelRespuesta.Location = new System.Drawing.Point(139, 398);
             this.labelRespuesta.Name = "labelRespuesta";
             this.labelRespuesta.Size = new System.Drawing.Size(75, 13);
             this.labelRespuesta.TabIndex = 11;

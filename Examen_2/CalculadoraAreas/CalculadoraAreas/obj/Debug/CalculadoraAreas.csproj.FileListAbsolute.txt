@@ -8,3 +8,23 @@ c:\users\alumnos\source\repos\CalculadoraAreas\CalculadoraAreas\obj\Debug\Calcul
 c:\users\alumnos\source\repos\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.csproj.CoreCompileInputs.cache
 c:\users\alumnos\source\repos\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.exe
 c:\users\alumnos\source\repos\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.pdb
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\Examenes-master\Examen_2\CalculadoraAreas\CalculadoraAreas\bin\Debug\CalculadoraAreas.exe.config
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\Examenes-master\Examen_2\CalculadoraAreas\CalculadoraAreas\bin\Debug\CalculadoraAreas.exe
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\Examenes-master\Examen_2\CalculadoraAreas\CalculadoraAreas\bin\Debug\CalculadoraAreas.pdb
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\Examenes-master\Examen_2\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.csprojAssemblyReference.cache
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\Examenes-master\Examen_2\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.InterfazUsuarioForm.resources
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\Examenes-master\Examen_2\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.Properties.Resources.resources
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\Examenes-master\Examen_2\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.csproj.GenerateResource.cache
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\Examenes-master\Examen_2\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.csproj.CoreCompileInputs.cache
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\Examenes-master\Examen_2\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.exe
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\Examenes-master\Examen_2\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.pdb
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\CalculadoraAreas\CalculadoraAreas\bin\Debug\CalculadoraAreas.exe.config
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\CalculadoraAreas\CalculadoraAreas\bin\Debug\CalculadoraAreas.exe
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\CalculadoraAreas\CalculadoraAreas\bin\Debug\CalculadoraAreas.pdb
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.csprojAssemblyReference.cache
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.InterfazUsuarioForm.resources
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.Properties.Resources.resources
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.csproj.GenerateResource.cache
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.csproj.CoreCompileInputs.cache
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.exe
+C:\Users\Erick .LAPTOP-3QCCTCO7\Desktop\CalculadoraAreas\CalculadoraAreas\obj\Debug\CalculadoraAreas.pdb

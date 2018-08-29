@@ -8,9 +8,14 @@ namespace CalculadoraAreas
 {
     class HijoTriangulo : PadreFigura
     {
+        public HijoTriangulo()
+        {
+            mensajeArea = "El área del triángulo en m^2 es";
+        }
+
         public override Double Area()
         {
-            return (Base_1*Altura_1)*0.5;
+            return (GetRadio() * GetAltura_1())*0.5;
         }
     }
 }
