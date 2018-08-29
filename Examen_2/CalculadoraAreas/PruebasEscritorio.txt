@@ -1,0 +1,38 @@
+Datos de entrada
+
+Figura Geométrica: null
+Ingresa Base: null
+Ingresa Altura:null
+
+Datos de salida:
+Dede de completar la información
+-------------------------------------------
+
+-------------------------------------------
+Datos de entrada
+
+Figura Geométrica: Triángulo
+Ingresa Base:15
+Ingresa Altura:18
+
+Datos de salida:
+El área del triángulo en m^2 es
+255
+-------------------------------------------
+
+-------------------------------------------
+Figura Geométrica:Círculo
+Ingresa Radio: 80
+
+Datos de salida:
+El área del círculo en m^2 es
+20106.24
+-------------------------------------------
+
+-------------------------------------------
+Figura Geométrica: Cuadrado
+Ingresa Base:10
+
+Datos de salida:
+El área del cuadrado en m^2 es
+100
