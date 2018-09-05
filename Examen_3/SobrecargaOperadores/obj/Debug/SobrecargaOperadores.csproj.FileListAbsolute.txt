@@ -1,0 +1,7 @@
+C:\Users\Erick .LAPTOP-3QCCTCO7\source\repos\SobrecargaOperadores\SobrecargaOperadores\obj\Debug\SobrecargaOperadores.csprojAssemblyReference.cache
+C:\Users\Erick .LAPTOP-3QCCTCO7\source\repos\SobrecargaOperadores\SobrecargaOperadores\obj\Debug\SobrecargaOperadores.csproj.CoreCompileInputs.cache
+C:\Users\Erick .LAPTOP-3QCCTCO7\source\repos\SobrecargaOperadores\SobrecargaOperadores\bin\Debug\SobrecargaOperadores.exe.config
+C:\Users\Erick .LAPTOP-3QCCTCO7\source\repos\SobrecargaOperadores\SobrecargaOperadores\bin\Debug\SobrecargaOperadores.exe
+C:\Users\Erick .LAPTOP-3QCCTCO7\source\repos\SobrecargaOperadores\SobrecargaOperadores\bin\Debug\SobrecargaOperadores.pdb
+C:\Users\Erick .LAPTOP-3QCCTCO7\source\repos\SobrecargaOperadores\SobrecargaOperadores\obj\Debug\SobrecargaOperadores.exe
+C:\Users\Erick .LAPTOP-3QCCTCO7\source\repos\SobrecargaOperadores\SobrecargaOperadores\obj\Debug\SobrecargaOperadores.pdb

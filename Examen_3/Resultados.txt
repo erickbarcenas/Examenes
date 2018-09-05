@@ -1,0 +1,58 @@
+Resultados de las pruebas
+
+++++++1++++++++
+Área del rectángulo
+----------------------
+Ingresa base: 10
+Ingresa altura: 20
+RESULTADO:
+El área del rectangulo es:200
+
+
+----------------------
+Ingresa base: 0
+Ingresa altura: 0
+RESULTADO:
+El área del rectangulo es:0
+
+++++++2++++++++
+Área del triángulo
+----------------------
+Ingresa base: 10.33
+Ingresa altura: 16.78
+RESULTADO:
+El área del triángulo es:86.6687
+
+----------------------
+Ingresa base: 10
+Ingresa altura: 0
+RESULTADO:
+El área del triángulo es:0
+
+
+++++++3++++++++
+Área del círculo
+----------------------
+Ingresa radio: 10
+RESULTADO:
+El área del círculo es:314.16
+++++++4++++++++
+Ingresa caracteres inválidos
+----------------------
+RESULTADO:
+Ingresaste un caracter
+
+++++++5++++++++
+No elige un número
+----------------------
+RESULTADO:
+El área del rectangulo es:0
+El área del triángulo es:0
+El área del círculo es:0
+
+
+
+
+Y en todos los casos imprime:
+------------------------
+Examen 3: sobrecarga de operadores \nFin del examen
