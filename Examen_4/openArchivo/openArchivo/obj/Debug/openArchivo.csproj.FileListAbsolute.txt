@@ -1,0 +1,10 @@
+C:\Users\alumnos\source\repos\openArchivo\openArchivo\obj\Debug\openArchivo.csprojAssemblyReference.cache
+C:\Users\alumnos\source\repos\openArchivo\openArchivo\obj\Debug\openArchivo.Form1.resources
+C:\Users\alumnos\source\repos\openArchivo\openArchivo\obj\Debug\openArchivo.Properties.Resources.resources
+C:\Users\alumnos\source\repos\openArchivo\openArchivo\obj\Debug\openArchivo.csproj.GenerateResource.cache
+C:\Users\alumnos\source\repos\openArchivo\openArchivo\obj\Debug\openArchivo.csproj.CoreCompileInputs.cache
+C:\Users\alumnos\source\repos\openArchivo\openArchivo\bin\Debug\openArchivo.exe.config
+C:\Users\alumnos\source\repos\openArchivo\openArchivo\bin\Debug\openArchivo.exe
+C:\Users\alumnos\source\repos\openArchivo\openArchivo\bin\Debug\openArchivo.pdb
+C:\Users\alumnos\source\repos\openArchivo\openArchivo\obj\Debug\openArchivo.exe
+C:\Users\alumnos\source\repos\openArchivo\openArchivo\obj\Debug\openArchivo.pdb
