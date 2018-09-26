@@ -1,0 +1,14 @@
+[0xD100] Active Diagnostic Session: defaultSession
+[0xF163] Diagnostic Specification Version: GGDS 31810161 Issue 003
+[0xF111] ECU Core Assembly Number: DU5T-14G009-CC
+[0xF113] ECU Delivery Assembly Number: GU5T-14F548-AC
+[0xF110] Diagnostic Part Number: DS-GU5T-14F548-AA
+[0xF188] ECU Software Part Number: DU5T-14G003-CC
+[0xF18C] ECU Serial Number: 01FZ
+[0xF15F] NOS Generation Tool Version: Vector 0x08070001010058010000
+[0xF166] NOS Message Database #1 Version: 16/October/2013  Version:  17
+[0xF159] NOS CAN Driver Version Number: 02.21.04
+[0xF15C] NOS Interaction Layer Version Number: 05.03.00
+[0xF15E] NOS Network/Transport Layer Version Number: 03.04.17
+[0xF160] NOS Diagnostic Version Number: 05.07.25
+[0xF161] NOS CAN Communication Layer Version Number: 02.11.00
